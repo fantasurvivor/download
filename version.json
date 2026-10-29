@@ -1,7 +1,7 @@
 {
-  "versionName": "1.3.5",
-  "versionCode": 2019,
+  "versionName": "1.3.6",
+  "versionCode": 2020,
   "apkUrl": "https://fantasurvivor.github.io/download/FantaSurvivor.apk",
-  "notes": "Novità: da ora l'app ti avvisa da sola quando esce un aggiornamento e lo installa con un tocco.",
+  "notes": "Correzione: l'username si può cambiare una volta ogni 30 giorni.",
   "force": false
 }
