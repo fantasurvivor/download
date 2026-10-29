@@ -1,7 +1,7 @@
 {
-  "versionName": "1.3.6",
-  "versionCode": 2020,
+  "versionName": "1.3.7",
+  "versionCode": 2021,
   "apkUrl": "https://fantasurvivor.github.io/download/FantaSurvivor.apk",
-  "notes": "Correzione: l'username si può cambiare una volta ogni 30 giorni.",
+  "notes": "Novità: chat per ogni torneo (risposte e @menzioni) e Bacheca con gli annunci ufficiali.",
   "force": false
 }
