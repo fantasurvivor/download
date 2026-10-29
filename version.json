@@ -1,7 +1,7 @@
 {
-  "versionName": "1.3.8",
-  "versionCode": 2022,
+  "versionName": "1.3.9",
+  "versionCode": 2023,
   "apkUrl": "https://fantasurvivor.github.io/download/FantaSurvivor.apk",
-  "notes": "Novità: puoi lasciare un torneo prima che inizi; per PayPal indichi l'email con cui hai pagato.",
+  "notes": "Novità: per pagare con PayPal scegli \"Amici e parenti\" (non \"Beni e servizi\"): ora è indicato chiaramente.",
   "force": false
 }
