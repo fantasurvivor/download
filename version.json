@@ -1,7 +1,7 @@
 {
-  "versionName": "1.2.9",
-  "versionCode": 2043,
+  "versionName": "1.2.10",
+  "versionCode": 2044,
   "apkUrl": "https://fantasurvivor.github.io/download/FantaSurvivor.apk",
-  "notes": "Pulsanti tornei: Unisciti per i pubblici, Iscriviti per i privati.",
+  "notes": "Home: se non ci sono tornei da scoprire la pagina non scorre più all'infinito.",
   "force": false
 }
