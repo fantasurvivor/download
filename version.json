@@ -1,7 +1,7 @@
 {
-  "versionName": "1.2.8",
-  "versionCode": 2042,
+  "versionName": "1.2.9",
+  "versionCode": 2043,
   "apkUrl": "https://fantasurvivor.github.io/download/FantaSurvivor.apk",
-  "notes": "Tornei pieni ora mostrano COMPLETO invece di Iscrizioni aperte. Nuovi stemmi dei tornei con giglio.",
+  "notes": "Pulsanti tornei: Unisciti per i pubblici, Iscriviti per i privati.",
   "force": false
 }
