@@ -1,7 +1,7 @@
 {
-  "versionName": "1.2.2",
-  "versionCode": 2036,
+  "versionName": "1.2.3",
+  "versionCode": 2037,
   "apkUrl": "https://fantasurvivor.github.io/download/FantaSurvivor.apk",
-  "notes": "Sopravvissuti rinnovati: vedi subito la squadra scelta da ogni giocatore, con il conteggio di chi è ancora in gioco.",
+  "notes": "Sopravvissuti: torna l'username dei giocatori.",
   "force": false
 }
