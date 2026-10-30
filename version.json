@@ -1,7 +1,7 @@
 {
-  "versionName": "1.1.9",
-  "versionCode": 2034,
+  "versionName": "1.2.1",
+  "versionCode": 2035,
   "apkUrl": "https://fantasurvivor.github.io/download/FantaSurvivor.apk",
-  "notes": "Le squadre scelte si vedono in tempo reale nei Sopravvissuti. Il PDF si scarica quando le scelte della giornata sono bloccate.",
+  "notes": "Se dimentichi di scegliere, ti viene assegnata la prima squadra disponibile in ordine alfabetico. All'ultima giornata il torneo finisce anche con più vincitori.",
   "force": false
 }
