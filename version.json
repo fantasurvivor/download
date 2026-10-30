@@ -1,7 +1,7 @@
 {
-  "versionName": "1.2.12",
-  "versionCode": 2046,
+  "versionName": "1.2.13",
+  "versionCode": 2047,
   "apkUrl": "https://fantasurvivor.github.io/download/FantaSurvivor.apk",
-  "notes": "Calendario più pulito (senza Regolamento/FAQ e icona Admin in alto). Gestione utenti senza scorciatoie: ora sono tutte nel Profilo.",
+  "notes": "Regolamento aggiornato: se non scegli, il sistema sceglie per te in ordine alfabetico. Nomi nel profilo con iniziali maiuscole.",
   "force": false
 }
