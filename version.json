@@ -1,7 +1,7 @@
 {
-  "versionName": "1.2.10",
-  "versionCode": 2044,
+  "versionName": "1.2.11",
+  "versionCode": 2045,
   "apkUrl": "https://fantasurvivor.github.io/download/FantaSurvivor.apk",
-  "notes": "Home: se non ci sono tornei da scoprire la pagina non scorre più all'infinito.",
+  "notes": "Nuovo Profilo: foto, nome, username ed email nel banner (matita sulla foto). Impostazioni con Regolamento e FAQ. Sezione Admin.",
   "force": false
 }
