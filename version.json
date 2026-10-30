@@ -1,7 +1,7 @@
 {
-  "versionName": "1.2.1",
-  "versionCode": 2035,
+  "versionName": "1.2.2",
+  "versionCode": 2036,
   "apkUrl": "https://fantasurvivor.github.io/download/FantaSurvivor.apk",
-  "notes": "Se dimentichi di scegliere, ti viene assegnata la prima squadra disponibile in ordine alfabetico. All'ultima giornata il torneo finisce anche con più vincitori.",
+  "notes": "Sopravvissuti rinnovati: vedi subito la squadra scelta da ogni giocatore, con il conteggio di chi è ancora in gioco.",
   "force": false
 }
