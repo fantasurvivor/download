@@ -1,7 +1,7 @@
 {
-  "versionName": "1.2.11",
-  "versionCode": 2045,
+  "versionName": "1.2.12",
+  "versionCode": 2046,
   "apkUrl": "https://fantasurvivor.github.io/download/FantaSurvivor.apk",
-  "notes": "Nuovo Profilo: foto, nome, username ed email nel banner (matita sulla foto). Impostazioni con Regolamento e FAQ. Sezione Admin.",
+  "notes": "Calendario più pulito (senza Regolamento/FAQ e icona Admin in alto). Gestione utenti senza scorciatoie: ora sono tutte nel Profilo.",
   "force": false
 }
