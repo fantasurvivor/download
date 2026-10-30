@@ -1,7 +1,7 @@
 {
-  "versionName": "1.2.5",
-  "versionCode": 2039,
+  "versionName": "1.2.6",
+  "versionCode": 2040,
   "apkUrl": "https://fantasurvivor.github.io/download/FantaSurvivor.apk",
-  "notes": "Nuova grafica: Home con i tuoi tornei e Scopri tornei, Bacheca in Home, nuovo Profilo, Albo d'oro e Chat. Nuova icona.",
+  "notes": "Home rinnovata come da nuovo design: countdown della giornata nel banner, scudi dei tornei, badge Pubblico/Privato, In corso / Iscrizioni aperte, giocatori in gioco, pulsanti Iscriviti / Entra con codice.",
   "force": false
 }
