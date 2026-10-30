@@ -14,7 +14,7 @@ h1{font-size:2.6rem}h2{font-size:1.6rem;color:#16A34A}.hero{text-align:center;pa
 .tag{display:inline-block;background:#DCFCE7;color:#166534;border-radius:99px;padding:4px 12px;font-weight:600;font-size:.85rem}footer{text-align:center;color:#6b7280;font-size:.85rem;padding:24px}</style></head>
 <body><main>
 <section class="hero"><img src="logo.png" alt="Logo Fanta Survivor"><h1>Fanta Survivor</h1><p>Sopravvivi alla Serie A. Una squadra a giornata, nessun errore concesso.</p>
-<a class="btn" href="FantaSurvivor.apk" download="FantaSurvivor.apk">⬇ Scarica APK</a><div class="meta">Versione 1.2.1 · Android · circa 23 MB</div></section>
+<a class="btn" href="FantaSurvivor.apk" download="FantaSurvivor.apk">⬇ Scarica APK</a><div class="meta" id="ver">Versione 1.2.2 · Android · circa 23 MB</div></section>
 <section class="card"><h2>Come si gioca</h2><ul>
 <li>Ogni giornata scegli <b>una squadra</b> di Serie A.</li><li>Se la tua squadra <b>vince</b>, sopravvivi.</li>
 <li>Pareggio, sconfitta o nessuna scelta = <b>eliminato</b>.</li><li>Non puoi usare la stessa squadra due volte.</li>
@@ -33,4 +33,9 @@ h1{font-size:2.6rem}h2{font-size:1.6rem;color:#16A34A}.hero{text-align:center;pa
 <details><summary>È sicura?</summary><p>Sì. L'avviso di Play Protect appare per tutte le app installate fuori dal Play Store.</p></details>
 <details><summary>Funziona su iPhone?</summary><p>Per ora solo Android.</p></details>
 <details><summary>Come aggiorno l'app?</summary><p>Apri l'app: se c'è una versione nuova compare un messaggio. Tocca <b>Aggiorna</b> e conferma l'installazione. I tuoi dati restano.</p></details></section>
-</main><footer>© 2026 Fanta Survivor · Gioco non affiliato alla Lega Serie A</footer></body></html>
+</main><footer>© 2026 Fanta Survivor · Gioco non affiliato alla Lega Serie A</footer><script>
+fetch('version.json',{cache:'no-store'}).then(r=>r.json()).then(v=>{
+  var el=document.getElementById('ver');
+  if(el&&v.versionName) el.textContent='Versione '+v.versionName+' · Android · circa 23 MB';
+}).catch(function(){});
+</script></body></html>
