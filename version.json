@@ -1,7 +1,7 @@
 {
-  "versionName": "1.2.14",
-  "versionCode": 2048,
+  "versionName": "1.1.1",
+  "versionCode": 2050,
   "apkUrl": "https://fantasurvivor.github.io/download/FantaSurvivor.apk",
-  "notes": "Nuova schermata Scelta con stemmi e conferma; scelte chiuse 5 minuti prima della prima partita. Calendario: dal giorno dopo la fine mostra la giornata successiva. Regolamento: se all'ultima giornata restano più giocatori, vincono tutti a pari merito.",
+  "notes": "Scelta squadra: card più alte con spazio dedicato sotto stemma e nome per «Selezionata» e «Già usata». Scelte chiuse 5 minuti prima della prima partita; a fine campionato più sopravvissuti = vincitori a pari merito.",
   "force": false
 }
