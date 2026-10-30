@@ -1,7 +1,7 @@
 {
-  "versionName": "1.1.8",
-  "versionCode": 2033,
+  "versionName": "1.1.9",
+  "versionCode": 2034,
   "apkUrl": "https://fantasurvivor.github.io/download/FantaSurvivor.apk",
-  "notes": "Rimossa la chat dei tornei (resta la chat generale). Nei Sopravvissuti ora vedi le squadre scelte da tutti i giocatori e puoi scaricare il PDF.",
+  "notes": "Le squadre scelte si vedono in tempo reale nei Sopravvissuti. Il PDF si scarica quando le scelte della giornata sono bloccate.",
   "force": false
 }
