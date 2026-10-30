@@ -1,7 +1,7 @@
 {
-  "versionName": "1.2.4",
-  "versionCode": 2038,
+  "versionName": "1.2.5",
+  "versionCode": 2039,
   "apkUrl": "https://fantasurvivor.github.io/download/FantaSurvivor.apk",
-  "notes": "Resti connesso anche dopo aver chiuso l'app; Accedi con Google mostra la scelta account.",
+  "notes": "Nuova grafica: Home con i tuoi tornei e Scopri tornei, Bacheca in Home, nuovo Profilo, Albo d'oro e Chat. Nuova icona.",
   "force": false
 }
