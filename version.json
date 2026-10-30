@@ -1,7 +1,7 @@
 {
-  "versionName": "1.2.13",
-  "versionCode": 2047,
+  "versionName": "1.2.14",
+  "versionCode": 2048,
   "apkUrl": "https://fantasurvivor.github.io/download/FantaSurvivor.apk",
-  "notes": "Regolamento aggiornato: se non scegli, il sistema sceglie per te in ordine alfabetico. Nomi nel profilo con iniziali maiuscole.",
+  "notes": "Nuova schermata Scelta con stemmi e conferma; scelte chiuse 5 minuti prima della prima partita. Calendario: dal giorno dopo la fine mostra la giornata successiva.",
   "force": false
 }
