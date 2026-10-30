@@ -1,7 +1,7 @@
 {
-  "versionName": "1.2.3",
-  "versionCode": 2037,
+  "versionName": "1.2.4",
+  "versionCode": 2038,
   "apkUrl": "https://fantasurvivor.github.io/download/FantaSurvivor.apk",
-  "notes": "Sopravvissuti: torna l'username dei giocatori.",
+  "notes": "Resti connesso anche dopo aver chiuso l'app; Accedi con Google mostra la scelta account.",
   "force": false
 }
