@@ -1,7 +1,7 @@
 {
-  "versionName": "1.1.1",
-  "versionCode": 2050,
+  "versionName": "1.1.2",
+  "versionCode": 2051,
   "apkUrl": "https://fantasurvivor.github.io/download/FantaSurvivor.apk",
-  "notes": "Scelta squadra: card più alte con spazio dedicato sotto stemma e nome per «Selezionata» e «Già usata». Scelte chiuse 5 minuti prima della prima partita; a fine campionato più sopravvissuti = vincitori a pari merito.",
+  "notes": "Intestazione torneo: badge Pubblico/stato su una riga propria, non si sovrappongono più ai tasti. Scelta: «Selezionata»/«Già usata» non coprono il nome squadra. Icona dell'app con scudo più grande.",
   "force": false
 }
