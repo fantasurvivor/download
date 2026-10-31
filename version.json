@@ -2,6 +2,6 @@
   "versionName": "1.1.6",
   "versionCode": 2055,
   "apkUrl": "https://fantasurvivor.github.io/download/FantaSurvivor.apk",
-  "notes": "Calendario con il nuovo tema: tutte le partite della giornata in una schermata.",
+  "notes": "Calendario: titolo nell’header e banner Scadenza scelte; loghi header uniformi.",
   "force": false
 }
