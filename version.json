@@ -1,7 +1,7 @@
 {
-  "versionName": "1.1.4",
-  "versionCode": 2053,
+  "versionName": "1.1.5",
+  "versionCode": 2054,
   "apkUrl": "https://fantasurvivor.github.io/download/FantaSurvivor.apk",
-  "notes": "Icona dell'app: lo scudo riempie il riquadro dell'icona.",
+  "notes": "Calendario con il nuovo tema: tutte le partite della giornata in una schermata.",
   "force": false
 }
