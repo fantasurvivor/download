@@ -1,7 +1,7 @@
 {
-  "versionName": "1.1.7",
-  "versionCode": 2056,
+  "versionName": "1.1.8",
+  "versionCode": 2057,
   "apkUrl": "https://fantasurvivor.github.io/download/FantaSurvivor.apk",
-  "notes": "Nuovo stemma e icona app, schermata di accesso rinnovata.",
+  "notes": "Conferma dopo la scelta, squadre usate grigie con lucchetto, 4 squadre per riga, PDF con solo username.",
   "force": false
 }
