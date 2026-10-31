@@ -1,7 +1,7 @@
 {
-  "versionName": "1.1.2",
-  "versionCode": 2051,
+  "versionName": "1.1.3",
+  "versionCode": 2052,
   "apkUrl": "https://fantasurvivor.github.io/download/FantaSurvivor.apk",
-  "notes": "Intestazione torneo: badge Pubblico/stato su una riga propria, non si sovrappongono più ai tasti. Scelta: «Selezionata»/«Già usata» non coprono il nome squadra. Icona dell'app con scudo più grande.",
+  "notes": "Icona dell'app con scudo e 3 stelle ancora più grande.",
   "force": false
 }
