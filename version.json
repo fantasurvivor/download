@@ -1,7 +1,7 @@
 {
-  "versionName": "1.1.10",
-  "versionCode": 2059,
+  "versionName": "1.1.11",
+  "versionCode": 2060,
   "apkUrl": "https://fantasurvivor.github.io/download/FantaSurvivor.apk",
-  "notes": "Username fisso: scelto alla registrazione, non è più modificabile.",
+  "notes": "Grafica più stabile: il testo non si ingrandisce più con le impostazioni carattere del telefono (es. Realme).",
   "force": false
 }
