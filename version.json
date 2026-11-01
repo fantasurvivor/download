@@ -1,7 +1,7 @@
 {
-  "versionName": "1.1.12",
-  "versionCode": 2061,
+  "versionName": "1.1.13",
+  "versionCode": 2062,
   "apkUrl": "https://fantasurvivor.github.io/download/FantaSurvivor.apk",
-  "notes": "In Sopravvissuti ora vedi la foto profilo accanto allo username. Calendario più compatto: meno spazio vuoto, più partite visibili senza scorrere.",
+  "notes": "Scelta e Calendario ora si adattano con precisione allo schermo: la griglia squadre e le partite occupano tutto lo spazio disponibile, senza zoom né spazi vuoti.",
   "force": false
 }
