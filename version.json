@@ -1,7 +1,7 @@
 {
-  "versionName": "1.1.11",
-  "versionCode": 2060,
+  "versionName": "1.1.12",
+  "versionCode": 2061,
   "apkUrl": "https://fantasurvivor.github.io/download/FantaSurvivor.apk",
-  "notes": "Grafica più stabile: il testo non si ingrandisce più con le impostazioni carattere del telefono (es. Realme).",
+  "notes": "In Sopravvissuti ora vedi la foto profilo accanto allo username. Calendario più compatto: meno spazio vuoto, più partite visibili senza scorrere.",
   "force": false
 }
