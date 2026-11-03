@@ -1,7 +1,7 @@
 {
-  "versionName": "1.2.0",
-  "versionCode": 2065,
+  "versionName": "1.2.1",
+  "versionCode": 2066,
   "apkUrl": "https://fantasurvivor.github.io/download/FantaSurvivor.apk",
-  "notes": "Nuova scheda «In corso» in Scopri tornei e tornei chiusi visibili a tutti. Puoi aprire qualsiasi torneo e seguire Sopravvissuti e Storico anche senza essere iscritto; dalla Scelta puoi unirti (pubblici) o iscriverti (privati).",
+  "notes": "Chat generale: tagga le persone con @ (riceveranno «ti ha menzionato»). Aprendo chat e Bacheca i messaggi vengono segnati come letti: niente più notifiche in ritardo per cose già viste.",
   "force": false
 }
