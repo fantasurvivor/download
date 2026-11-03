@@ -1,7 +1,7 @@
 {
-  "versionName": "1.2.3",
-  "versionCode": 2068,
+  "versionName": "1.2.4",
+  "versionCode": 2069,
   "apkUrl": "https://fantasurvivor.github.io/download/FantaSurvivor.apk",
-  "notes": "Nei tornei conclusi vedi l'ultima squadra scelta dal vincitore, la scritta Vincitore è più evidente e l'intestazione diventa Classifica finale.",
+  "notes": "Corretto: tornando da un torneo alla Home la tastiera non si apre più da sola.",
   "force": false
 }
