@@ -1,7 +1,7 @@
 {
-  "versionName": "1.2.2",
-  "versionCode": 2067,
+  "versionName": "1.2.3",
+  "versionCode": 2068,
   "apkUrl": "https://fantasurvivor.github.io/download/FantaSurvivor.apk",
-  "notes": "Tag @ più semplici in chat (pulsante @ con ricerca). Numerini sulla barra Scopri tornei. In Notifiche puoi disattivare la chat generale: i tag @ ti arrivano comunque.",
+  "notes": "Nei tornei conclusi vedi l'ultima squadra scelta dal vincitore, la scritta Vincitore è più evidente e l'intestazione diventa Classifica finale.",
   "force": false
 }
