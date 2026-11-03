@@ -1,7 +1,7 @@
 {
-  "versionName": "1.1.15",
-  "versionCode": 2064,
+  "versionName": "1.2.0",
+  "versionCode": 2065,
   "apkUrl": "https://fantasurvivor.github.io/download/FantaSurvivor.apk",
-  "notes": "L'Albo d'oro si aggiorna da solo quando un torneo finisce. Nuovo badge «Eliminato» (e «Vincitore») sulle card dei tornei. I tornei conclusi sono ora nella scheda «Chiusi» della barra Scopri tornei.",
+  "notes": "Nuova scheda «In corso» in Scopri tornei e tornei chiusi visibili a tutti. Puoi aprire qualsiasi torneo e seguire Sopravvissuti e Storico anche senza essere iscritto; dalla Scelta puoi unirti (pubblici) o iscriverti (privati).",
   "force": false
 }
