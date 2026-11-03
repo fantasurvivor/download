@@ -1,7 +1,7 @@
 {
-  "versionName": "1.2.1",
-  "versionCode": 2066,
+  "versionName": "1.2.2",
+  "versionCode": 2067,
   "apkUrl": "https://fantasurvivor.github.io/download/FantaSurvivor.apk",
-  "notes": "Chat generale: tagga le persone con @ (riceveranno «ti ha menzionato»). Aprendo chat e Bacheca i messaggi vengono segnati come letti: niente più notifiche in ritardo per cose già viste.",
+  "notes": "Tag @ più semplici in chat (pulsante @ con ricerca). Numerini sulla barra Scopri tornei. In Notifiche puoi disattivare la chat generale: i tag @ ti arrivano comunque.",
   "force": false
 }
