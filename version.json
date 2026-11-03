@@ -1,7 +1,7 @@
 {
-  "versionName": "1.1.13",
-  "versionCode": 2062,
+  "versionName": "1.1.14",
+  "versionCode": 2063,
   "apkUrl": "https://fantasurvivor.github.io/download/FantaSurvivor.apk",
-  "notes": "Scelta e Calendario ora si adattano con precisione allo schermo: la griglia squadre e le partite occupano tutto lo spazio disponibile, senza zoom né spazi vuoti.",
+  "notes": "Il vincitore ora può scrivere all'organizzatore dalla pagina Premio. Nuova sezione «Tornei chiusi» in Home: i tornei conclusi non affollano più le liste e restano consultabili lì.",
   "force": false
 }
