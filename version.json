@@ -1,7 +1,7 @@
 {
-  "versionName": "1.2.4",
-  "versionCode": 2069,
+  "versionName": "1.2.5",
+  "versionCode": 2070,
   "apkUrl": "https://fantasurvivor.github.io/download/FantaSurvivor.apk",
-  "notes": "Corretto: tornando da un torneo alla Home la tastiera non si apre più da sola.",
+  "notes": "Nei tornei con iscrizioni aperte ora vedi il numero di iscritti, anche in Scopri accanto a Unisciti.",
   "force": false
 }
