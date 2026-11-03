@@ -1,7 +1,7 @@
 {
-  "versionName": "1.1.14",
-  "versionCode": 2063,
+  "versionName": "1.1.15",
+  "versionCode": 2064,
   "apkUrl": "https://fantasurvivor.github.io/download/FantaSurvivor.apk",
-  "notes": "Il vincitore ora può scrivere all'organizzatore dalla pagina Premio. Nuova sezione «Tornei chiusi» in Home: i tornei conclusi non affollano più le liste e restano consultabili lì.",
+  "notes": "L'Albo d'oro si aggiorna da solo quando un torneo finisce. Nuovo badge «Eliminato» (e «Vincitore») sulle card dei tornei. I tornei conclusi sono ora nella scheda «Chiusi» della barra Scopri tornei.",
   "force": false
 }
